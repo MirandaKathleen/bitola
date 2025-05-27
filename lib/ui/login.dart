@@ -30,7 +30,7 @@ class _CalculadoraBitolaScreenState extends State<Login> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Bitola'),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: const Color.fromARGB(255, 215, 175, 228),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
