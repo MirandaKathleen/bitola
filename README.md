@@ -14,7 +14,8 @@ O aplicativo calcula a **bitola ideal do fio elétrico** (em milímetros quadrad
 
 ## Wireframes
 
-![Captura de tela 2025-05-21 160809](https://github.com/user-attachments/assets/56c7ae63-2a53-42e6-a6ec-bfac23607674)
+!(![Captura de tela 2025-05-27 094807](https://github.com/user-attachments/assets/3fd6dca2-961d-4383-ba97-400939036b5e)
+)
 
 
 ## Como testar
